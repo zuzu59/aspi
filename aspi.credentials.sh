@@ -1,0 +1,2 @@
+log="admin"
+pwd="toto"
