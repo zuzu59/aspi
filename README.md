@@ -1,9 +1,9 @@
 # aspi
 Petit aspirateur de sites WEB WordPress
 
-Des fois il est très intéressant de pouvoir aspirer un site WEB pour archive ou pour raison de sécurité.
+Des fois il est très intéressant de pouvoir aspirer un site WEB pour archive ou pour raison de sécurité (on a après plus que de l'HTML, donc plus de trous de sécurité liés à WordPress).
 
-Quand on veut aspirer un site WordPress, cela se complique un peu en particulier su ce site n'est pas publique, donc où il faut s'identifier avant l'aspiration.
+Quand on veut aspirer un site WordPress, cela se complique un peu, en particulier quand le site à aspirer n'est pas publique, donc où il faut s'identifier avant l'aspiration.
 
 
 # Utilisation
