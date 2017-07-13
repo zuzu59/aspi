@@ -1,10 +1,16 @@
 #!/bin/bash
 #Cryptage des credentials
-#zf170711.1920
+#zf170713.2350
+
+sudo apt-get install -y gnupg2
 
 zfile="aspi.credentials.sh"
 
-sudo apt-get install -y gnupg2
+gpg2 -c ../$zfile
+mv ../$zfile.gpg .
+rm -R ../.gnupg
+
+zfile="aspi.list_serveurs.csv"
 
 gpg2 -c ../$zfile
 mv ../$zfile.gpg .
