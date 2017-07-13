@@ -1,0 +1,5 @@
+name,Server,parent,site_url_jahia,site_url_wp,site_title,username_viewer,pwd_viewer
+briskenlab,http://test-web-wordpress.epfl.ch/v1-testwp/,v1-testwp,http://brisken-lab.epfl.ch,http://test-web-wordpress.epfl.ch/v1-testwp/briskenlab,briskenlab,view-briskenlab,toto
+gr-co,http://test-web-wordpress.epfl.ch/v1-testwp/,v1-testwp,http://gr-co.epfl.ch,http://test-web-wordpress.epfl.ch/v1-testwp/gr-co,gr-co,view-gr-co,tutu
+lanes,http://test-web-wordpress.epfl.ch/v1-testwp/,v1-testwp,http://lanes.epfl.ch,http://test-web-wordpress.epfl.ch/v1-testwp/lanes,lanes,view-lanes,titi
+lcr,http://test-web-wordpress.epfl.ch/v1-testwp/,v1-testwp,http://ccc.epfl.ch,http://test-web-wordpress.epfl.ch/v1-testwp/lcr,lcr,view-lcr,tata
