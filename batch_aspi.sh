@@ -20,7 +20,7 @@ do
 	echo $nblines
 	if [ $nblines != "0" ]
 	then
-		./aspi.sh $site_url_wp $username_viewer $pwd_viewer
+		./aspi.sh $site_title $username_viewer $pwd_viewer
 	fi
 	((nblines+=1))
 	echo ""

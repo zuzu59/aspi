@@ -14,5 +14,5 @@ screen -list          pour lister tous les screen en fonctionement
 "
 
 
-#python3 -m http.server 8081
+python3 -m http.server 8081 --cgi
 

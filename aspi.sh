@@ -27,14 +27,19 @@ agent="Mozilla/5.0"
 
 #source ../aspi.credentials.sh
 
+echo $1
+echo $2
+echo $3
+echo ""
 echo $server$url
 echo $server$url".html"
-
+echo ""
 echo $site
+echo $login_address
 echo $log
 echo $pwd
 
-exit
+#exit
 
 rm -R $cookies $server$url $server$url".html"
 
