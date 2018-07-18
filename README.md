@@ -35,7 +35,7 @@ mv aspi.credentials.sh.template ../aspi.credentials.sh
 ## Lancer l'aspirateur
 Simplement avec la commande:
 ```
-./start.sh
+./batch_aspi.sh
 ```
 
 ## Exécuter le tout petit serveur WEB pour vérifier le résultat
